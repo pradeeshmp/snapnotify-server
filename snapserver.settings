@@ -1,6 +1,6 @@
 settings = {
-    apikey: "YOUR_API_KEY",
-    url: "YOUR_SERVER_ADDRESS",
-    senderid: "YOUR_SENDER_ID",
+    apikey: "AIzaSyCKTkZ9EHRUmMjJHgSyPaamVFtEbqGSmq4",
+    url: "http://gcm-server-renault.herokuapp.com/",
+    senderid: "312397563097",
     heroku: true
 }
